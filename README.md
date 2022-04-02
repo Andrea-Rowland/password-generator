@@ -13,6 +13,7 @@ Once the password length is determined, there are 4 pop-up windows that appear a
 *JS
 
 ### Web link:
+https://andrea-rowland.github.io/password-generator/
 
 ### Screenshot
 ![Password-gen-Screenshot](./assets/password-generator-screenshot.JPG)
